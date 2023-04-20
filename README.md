@@ -1,1 +1,1 @@
-# deep-locality-sensitive-hashing
+# Deep-Locality-Sensitive-Hashing
