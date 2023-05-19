@@ -26,7 +26,7 @@ Our contribution is three-fold.
 ![contrib](code/Images/Images-paper/DeepLSH%20model.png)
 
 ## How to use this code?
-1. Clone this repository using: ```git clone https://github.com/RemilYoucef/deep-locality-sensitive-hashing.git ```
+1. Clone this repository 
 2. Install the required python packages: ```pip install -r ./code/requirements.txt ```
 3. Run the notebooks in code/notebooks/measure:
     * measure-DeepLSH.ipynb : the end-to-end procedure to train/test and validate DeepLSH
